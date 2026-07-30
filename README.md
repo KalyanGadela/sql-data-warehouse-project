@@ -5,8 +5,44 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-## Project Requirements 
 
+# 📖 Project Overview
+
+This project focuses on the following key areas:
+
+### 1. 🏛️ Data Warehouse Architecture
+- Design a scalable data warehouse using a layered architecture (Bronze, Silver, and Gold).
+- Organize data for efficient storage, transformation, and analytics.
+
+### 2. 🔄 ETL Pipeline
+- Extract data from multiple source systems (ERP & CRM).
+- Clean, validate, and transform raw datasets.
+- Load processed data into the data warehouse.
+
+### 3. 🗄️ Data Modeling
+- Build Fact and Dimension tables.
+- Implement a Star Schema optimized for analytical queries.
+- Ensure data consistency and performance.
+
+### 4. 📊 Analytics & Reporting
+- Write SQL queries to answer real-world business questions.
+- Analyze customer behavior, product performance, and sales trends.
+- Create interactive dashboards and KPI reports.
+
+---
+
+## 🎯 What You'll Learn
+
+By exploring this repository, you'll gain hands-on experience with:
+
+- SQL Development
+- Data Warehousing
+- ETL Process Design
+- Data Cleaning & Transformation
+- Data Modeling (Star Schema)
+- Analytical SQL Queries
+
+  
 ### Building the Data Warehouse (Data Engineering)
 
 ### Objectives
@@ -32,6 +68,11 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics ,enabling strategic decision-making.
 
 ---
+
+### Data Architecture
+
+<img width="4920" height="2644" alt="image" src="https://github.com/user-attachments/assets/9b1bba3d-048b-43b1-abec-445b4af18e13" />
+
 
 ## About 
 
