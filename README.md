@@ -35,5 +35,5 @@ These insights empower stakeholders with key business metrics ,enabling strategi
 
 ## About 
 
-Hi there ! I'm **Gadela Kalyan**,and I'm aspiring to learn about data analytics ...I'm excited to more projects on data 
+Hi there ! I'm **Gadela Kalyan**,and I'm aspiring to learn about data analytics ...I'm excited to do more projects on data 
 
